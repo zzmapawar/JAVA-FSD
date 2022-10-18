@@ -1,0 +1,205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"double",
+				"DoubleFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/milind pawar/My Projects/SwitchDemo.class",
+		"/C/Users/milind pawar/My Projects/NumberTest.java",
+		"/C/Users/milind pawar/My Projects/IfElseDemo.java",
+		"/C/Users/milind pawar/My Projects/MyFirstProgram.class",
+		"/C/Users/milind pawar/My Projects/CodingChallenge1.java",
+		"/C/Users/milind pawar/My Projects/CodingChallenge1.class",
+		"/C/Users/milind pawar/My Projects/IfElseDemo.class",
+		"/C/Users/milind pawar/My Projects/DemoOperators.java",
+		"/C/Users/milind pawar/My Projects/IFProgram.java",
+		"/C/Users/milind pawar/My Projects/MyFirstProgram.java",
+		"/C/Users/milind pawar/My Projects/Calculation.java",
+		"/C/Users/milind pawar/My Projects/Secondprogram.java",
+		"/C/Users/milind pawar/My Projects/Secondprogram.class",
+		"/C/Users/milind pawar/TEST PROGRAM/mySecondprogram.java",
+		"/C/Users/milind pawar/TEST PROGRAM/Helloword.java",
+		"/C/Users/milind pawar/Downloads/Advait.java",
+		"/C/Users/milind pawar/TEST PROGRAM/Advait.class",
+		"/C/Users/milind pawar/TEST PROGRAM/Myjavafile.java",
+		"/C/Users/milind pawar/TEST PROGRAM/Myprogram.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/Main.java",
+		"/C/Users/milind pawar/TEST PROGRAM/Main.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/Advait.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/myFirstprogram.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/String.class",
+		"/C/Users/milind pawar/OneDrive/Desktop/Main.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/String.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/Cosmoss.class",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/Cosmoss.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/AccountStatement.java",
+		"/C/Users/milind pawar/TEST PROGRAM/Bank.java",
+		"/C/Users/milind pawar/TEST PROGRAM/Welcome.java",
+		"/C/Users/milind pawar/TEST PROGRAM/AccountStatement.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/AccountStatement.class",
+		"/C/Users/milind pawar/TEST PROGRAM/Hello.java",
+		"/C/Users/milind pawar/OneDrive/Desktop/TEST PROGRAM/Welcome.java"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "IfElseDemo.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
